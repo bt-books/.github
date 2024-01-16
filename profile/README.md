@@ -18,6 +18,24 @@
 
 ---
 
+## 6. TELL ME ABOUT YOURSELF
+
+6.1. A Big Mistake
+
+When the interviewer says, **"Please tell me about yourself,"** many people mention only their name, where they are coming from, and where they have studied. This information is very basic, and the interviewer already knows from your CV. So, that’s wasting an opportunity.
+
+6.2. Topics you should cover
+
+Usually, the first real question asked during an interview is, "Please tell me about yourself," or "Please introduce yourself."
+
+> You should do the following:
+
+- Don’t just tell your name, where you studied and this type of basic information
+- Tell in a way so that it matches the job description
+- Tell your impact on the team, on the project, on the company
+- Tell your achievements
+- You can also tell those which are not mentioned in the Job description.
+
 ## 13. SALARY NEGOTIATION
 
 13.1.3. The Unknowns while Salary negotiation
