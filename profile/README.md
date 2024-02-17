@@ -14,7 +14,6 @@
 ## Book List
 
 1. Cracking Job Interview by ABM Junaed
-2. 
 
 ---
 
